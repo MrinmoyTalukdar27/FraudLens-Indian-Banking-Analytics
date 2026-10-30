@@ -1,3 +1,6 @@
+## 📁 Project Structure
+
+```text
 FraudNexa-Indian-Banking-Fraud-Detection/
 │
 ├── Datasets/
@@ -20,11 +23,12 @@ FraudNexa-Indian-Banking-Fraud-Detection/
 │   └── preprocessor.pkl
 │
 ├── Models/
-│   └── (Trained ML models will be saved here)
+│   └── (Trained models)
 │
 ├── app/
-│   └── (Streamlit application files)
+│   └── (Streamlit application)
 │
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
